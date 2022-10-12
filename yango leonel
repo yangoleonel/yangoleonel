@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="lj design" content="société specialisé dans le domaine d'infographie et de genie logiciel !"> 
+    <title>LJ design</title>
+    <link rel="stylesheet" href="style.css">
+ </head>
+    <body>
+        <h1>LJ design</h1>
+        <div>
+            <p><b>LJ design</b> est une entreprise créé en 2021 par <b>Yango tchakounte leonel jospin;</b> specialisé dans le domaine de l'infographie et du genie logiciel, <br>il repond a tout vos besoin  celon vos desir.</P>
+            <p><b>NOS SERVICES:</b>
+                <ol><b>
+                    <li>infogrphie</li>
+                    <li>videographie</li>
+                    <li>photographie</li>
+                    <li>developpement web</li>
+                    <li>serigraphie</li>
+                    <li>dessin et peinture artistique</li>
+                </b></ol>
+            </ol>
+        </p>
+        </div>
+        <table>
+          <tr>
+              <th>heure</th>
+              <th>jours d'ouverture</th>
+          </tr>
+              <td>08h-12h</td>
+              <td>de lundi a vendredi</td>
+        </table>
+          <a href="file:///C:/Users/USER/Desktop/text/index.html" target="_blank ">LJ design</a>
+   <img src="D:\logo 2.jpg" alt="logo de LJ design" width="400" heigth="300">
+
+    </body>
